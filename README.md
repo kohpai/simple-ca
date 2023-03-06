@@ -5,9 +5,9 @@ The configuration can be modified/copied to create certificates with different k
 
 ## Running
 
-```sh
-$ cp cert.conf my_config.conf
-$ vim my_config.conf # Possibly modify the configuration
-$ ./self-sign.sh my_config
+```bash
+cp cert.conf my_config.conf
+vim my_config.conf # Possibly modify the configuration
+./self-sign.sh my_config
 ```
 
